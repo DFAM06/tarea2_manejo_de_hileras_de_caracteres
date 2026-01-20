@@ -18,6 +18,7 @@ public class Main {
                 + "\nEscriba el número (6) si deseas contar las vocales de una hilera de caracteres"
                 + "\nEscriba el número (7) si deseas invertir una hilera de caracteres"
                 + "\nEscriba el número (8) si deseas escribir una contraseña"
+                + "\nEscriba cualquier otro caracter deseas dejar de usar el programa"
             );
             opcionUsuario = scan.next();
             scan.nextLine();
